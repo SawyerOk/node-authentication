@@ -83,3 +83,11 @@ body {
   .form-control.error {
       border : solid 1px red;
   }
+
+  .container {
+    background: #ccc;
+  }
+
+  body {
+    background: #ddd;
+  }
